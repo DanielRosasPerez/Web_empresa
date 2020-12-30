@@ -1,6 +1,6 @@
 # Web_empresa
 Un página para un pequeño cafe
 
-Versiones:
+Versiones:  
 python 3.6.12  
 django 2.0
